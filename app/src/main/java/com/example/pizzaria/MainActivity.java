@@ -46,8 +46,14 @@ public class MainActivity extends AppCompatActivity {
         lblServico2.setText("" + Servico);
         double Total  = (Consumo + Servico);
         lblTotal2.setText("" + Total);
-        double ValorPessoa  = (Total / Pessoas);
-        lblValorPessoa2.setText("" + ValorPessoa);
+
+        if (Pessoas <= 0) {
+            lblValorPessoa2.setText("");
+        }
+        else{
+            double ValorPessoa = (Total / Pessoas);
+            lblValorPessoa2.setText("" + ValorPessoa);
+        }
 
     }
 }
