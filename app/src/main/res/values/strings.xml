@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pizzaria</string>
+    <string name="CHOPP">Chopp</string>
+    <string name="PIZZAS">Pizzas</string>
+    <string name="RECHEIOS">Recheios</string>
+    <string name="PESSOAS">Pessoas</string>
+    <string name="CONSUMO">Consumo</string>
+    <string name="SERVICO">Serviço</string>
+    <string name="TOTAL">Total</string>
+    <string name="VALORPESSOA">Valor Pessoa</string>
+
+    <string name="CONSUMO2">Consumo2</string>
+    <string name="SERVICO2">Serviço2</string>
+    <string name="TOTAL2">Total2</string>
+    <string name="VALORPESSOA2">Valor Pessoa2</string>
+    <string name="CALCULAR">Calcular</string>
+
+
+
+
+
+</resources>
